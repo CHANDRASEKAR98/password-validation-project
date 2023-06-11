@@ -8,10 +8,10 @@ The Validation pattern that has to match minimum one Uppercase, Lowercase (Alpha
 ## Screenshots
 
 #### Scenario 1:
-![App Screenshot]()
+![App Screenshot](https://github.com/CHANDRASEKAR98/password-validation-project/blob/main/images/screenshot-scenario1.JPG)
 
 #### Scenario 2:
-![App Screenshot]()
+![App Screenshot](https://github.com/CHANDRASEKAR98/password-validation-project/blob/main/images/Screenshot-scenario2.JPG)
 
 
 ## Installation
