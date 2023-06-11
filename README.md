@@ -33,9 +33,3 @@ The output will be displayed like the following.
   Java(TM) SE Runtime Environment (build 1.8.0_101-b13)
   Java HotSpot(TM) 64-Bit Server VM (build 25.101-b13, mixed mode)
 ```
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
